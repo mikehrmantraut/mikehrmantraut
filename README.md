@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Baran!</h1>
 <h3 align="center">I am studying Mathematical Engineering at Yıldız Technical University.</h3>
 
