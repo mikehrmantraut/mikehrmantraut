@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran!</h1>
-<p>I am studying Mathematical Engineering at Yıldız Technical University.</p>
+<p>My name is Mehmet Baran Munar. I am studying Mathematical Engineering at Yıldız Technical University.</p>
 
 - 🔭 I’m currently working on **Python, Go, PostgreSQL**
 
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Basic Go projects**
 
 - 🤝 I’m looking for help with **Go**
+
+- ⚡ What I used before **JavaScript, C, MySQL & MsSQL**
 
 - 💬 Ask me about **Python**
 
