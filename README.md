@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran!</h1>
-<h3 align="center">I am studying Mathematical Engineering at Yıldız Technical University.</h3>
+<p>I am studying Mathematical Engineering at Yıldız Technical University.</p>
 
 - 🔭 I’m currently working on **Python, Go, PostgreSQL**
 
