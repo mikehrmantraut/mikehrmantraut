@@ -3,19 +3,13 @@
 
 - 🔭 I’m currently working on **Python, Go, PostgreSQL**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 👯 I’m looking to collaborate on **Basic Go projects**
-
-- 🤝 I’m looking for help with **Go**
-
-- ⚡ What I used before **JavaScript, C, MySQL & MsSQL**
+- 👯 I’m looking to collaborate on **Basic Machine Learning projects**
 
 - 💬 Ask me about **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@baranmunar](https://medium.com/@baranmunar)
-
-
 
 - 📫 How to reach me **baran_3430@outlook.com**
 
