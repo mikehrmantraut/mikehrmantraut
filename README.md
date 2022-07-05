@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran!</h1>
 <p>My name is Mehmet Baran Munar. I am studying Mathematical Engineering at Yıldız Technical University.</p>
 
-- 🔭 I’m currently working on **Python, Go, PostgreSQL**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
