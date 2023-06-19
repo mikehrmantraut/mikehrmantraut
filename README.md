@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran!</h1>
 <p>My name is Mehmet Baran Munar. I am studying Mathematical Engineering at Yıldız Technical University.</p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
-
-- 👯 I’m looking to collaborate on **Basic Machine Learning projects**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **OOP Principles**
 
 - 📝 I regularly write articles on [https://medium.com/@baranmunar](https://medium.com/@baranmunar)
 
